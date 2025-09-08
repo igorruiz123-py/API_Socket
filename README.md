@@ -1,12 +1,13 @@
-# API_Socket
+# Socket API
 
 Simple and demonstrative Socket API, simulating a socket client and a socket server exchanging data.
 
-Gathering Networking and TCP/IP stack concepts, this repository aims to understand more how communication between clients and server machines really works.
+Gathering Networking and TCP/IP stack concepts, this repository aims to understand more how communication between client and server machines really works.
 
 # How it works?
 
-Through a gentle and simple User Interface made with Qt Designer a client socket is permomed by the user who   
+Through a gentle and simple User Interface made with Qt Designer a client socket is permomed by the user who establishes a connection with the socket server.
+Once the connection is establhised the client can send message to and receive messages from the server.
 
 # Tools Used: 
 
