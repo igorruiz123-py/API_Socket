@@ -11,6 +11,6 @@ Through a gentle and simple User Interface made with Qt Designer a client socket
 # Tools Used: 
 
 <p>
-  <img src="assets/python_logo.png" width="40"/>
-  <img src="assets/qt_designer.png" width="40"
+  <img src="assets/python_logo.png" width="100" height="100"/>
+  <img src="assets/qt_designer.png" width="100" height="100"/>
 </p>
