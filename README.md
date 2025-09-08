@@ -10,6 +10,6 @@ Through a gentle and simple User Interface made with Qt Designer a client socket
 
 # Tools Used: 
 
-<p align="center">
+<p>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" alt="Python Logo"/>
 </p>
