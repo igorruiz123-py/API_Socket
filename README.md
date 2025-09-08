@@ -10,4 +10,4 @@ Through a gentle and simple User Interface made with Qt Designer a client socket
 
 # Tools Used: 
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40"/> <img src="https://seeklogo.com/vector-logo/340086/qt" width="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40"/> <img src="https://seeklogo.com/vector-logo/340086/qt.png" width="40"/>
